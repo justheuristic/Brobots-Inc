@@ -1,0 +1,25 @@
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\Brobots Inc.exe
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\Brobots Inc.pdb
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\obj\x86\Debug\Brobots Inc.csprojResolveAssemblyReference.cache
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\obj\x86\Debug\Brobots Inc.exe
+C:\Users\sasha_000\documents\visual studio 2010\Projects\Brobots Inc\Brobots Inc\obj\x86\Debug\Brobots Inc.pdb

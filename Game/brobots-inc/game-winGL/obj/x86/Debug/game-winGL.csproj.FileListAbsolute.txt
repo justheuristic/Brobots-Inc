@@ -11,3 +11,17 @@ c:\users\sasha_000\documents\visual studio 2013\Projects\brobots-inc\game-winGL\
 C:\Users\sasha_000\documents\visual studio 2013\Projects\brobots-inc\game-winGL\bin\WindowsGL\Debug\Content\BG.png
 C:\Users\sasha_000\documents\visual studio 2013\Projects\brobots-inc\game-winGL\bin\WindowsGL\Debug\Content\rob1.png
 C:\Users\sasha_000\documents\visual studio 2013\Projects\brobots-inc\game-winGL\bin\WindowsGL\Debug\Content\trail.png
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\Content\BG.png
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\Content\rob1.png
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\Content\trail.png
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\SDL.dll
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\obj\x86\Debug\game-winGL.csprojResolveAssemblyReference.cache
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\obj\x86\Debug\game-winGL.exe
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\obj\x86\Debug\game-winGL.pdb
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\game-winGL.exe.config
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\game-winGL.exe
+C:\Users\sasha_000\Documents\Visual Studio 2013\Projects\Brobots-Inc\Game\brobots-inc\game-winGL\bin\WindowsGL\Debug\game-winGL.pdb

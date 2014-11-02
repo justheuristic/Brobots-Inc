@@ -19,8 +19,8 @@ namespace game.IO
 
         public static void LoadSounds(ContentManager Content)
         {
-            BallWallCollisionSoundEffect = Content.Load<SoundEffect>("BallWallCollision");
-            PaddleBallCollisionSoundEffect = Content.Load<SoundEffect>("PaddleBallCollision");
+			//BallWallCollisionSoundEffect = Content.Load<SoundEffect>("BallWallCollision");
+			//PaddleBallCollisionSoundEffect = Content.Load<SoundEffect>("PaddleBallCollision");
         }
 
         public override void Loop(float dtime)
